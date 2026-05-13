@@ -5,5 +5,5 @@ Aplikasi Flutter untuk manajemen produk menggunakan REST API.
 ## Screenshot
 
 ![Login Page](screenshot/login.png)
-
-![Katalog Page](assets/katalog.png)
+![Katalog Page](screenshot/katalog.png)
+![Katalog Page](screenshot/tambahProduk.png)
